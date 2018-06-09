@@ -4,7 +4,6 @@
   <name>JavaScript Config DSL Script</name>
   <groupId>JavaScript</groupId>
   <artifactId>JavaScript_dsl</artifactId>
-  <Description>My JS Project</Description>
   <version>1.0-SNAPSHOT</version>
 
   <parent>
